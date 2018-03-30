@@ -7,7 +7,7 @@ This app demonstrates creating UI without the use of storyboards, in addition to
 
 ## Using
 
-![Alt Text](https://github.com/EduardLev/ELBrickBreakerMiniTTT/raw/master/ELBrickBreakDemoTTT.gif)
+![Alt Text](https://github.com/EduardLev/UIProgramatically/raw/master/ELUIProgramaticallyTTT.gif)
 
 ## Acknowledgments
 
